@@ -1,0 +1,7 @@
+This temporary file is a partial list of bugs that were fixed during Absurd Area development that may have not been reproduced in the original HamSandwich fork.
+They will be collected here, to be officially submitted to HamSandwich after a code review to see if it wasn't already fixed.
+
+- Potions gallery goal: only triggers when a potion is picked up, not purchased or retrieved from mimic
+- ice skates dupe
+- puppet pals HP is wrong on madcap
+- slide plus monsters plus walls, you get stuck
